@@ -1,7 +1,7 @@
 #StudyNotion
 # StudyNotion Online Education Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
 
-![Main Page](images/mainpage.png)
+![Main Page]([images/mainpage.png](https://raw.githubusercontent.com/gourangpathak/StudyNotion-An-Online-Education-Platform/master/images/architecture.png))
 
 ## Project Description
 
